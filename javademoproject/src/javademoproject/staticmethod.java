@@ -10,5 +10,5 @@ public class staticmethod {
 	static{
 		System.out.println("hi");
 	}
-
+   
 }

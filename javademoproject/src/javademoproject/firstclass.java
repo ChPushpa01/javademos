@@ -5,5 +5,5 @@ public class firstclass {
 		// TODO Auto-generated method stub
         System.out.println("hi");
 	}
-
+ 
 }
